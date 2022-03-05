@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/october-bingo/static/css/main.992fd86d.chunk.css",
+    "main.js": "/october-bingo/static/js/main.ec2defad.chunk.js",
+    "main.js.map": "/october-bingo/static/js/main.ec2defad.chunk.js.map",
+    "runtime-main.js": "/october-bingo/static/js/runtime-main.ef03ba89.js",
+    "runtime-main.js.map": "/october-bingo/static/js/runtime-main.ef03ba89.js.map",
+    "static/js/2.8aca7923.chunk.js": "/october-bingo/static/js/2.8aca7923.chunk.js",
+    "static/js/2.8aca7923.chunk.js.map": "/october-bingo/static/js/2.8aca7923.chunk.js.map",
+    "index.html": "/october-bingo/index.html",
+    "precache-manifest.f859177a0aebdd567fbe72b4633829d9.js": "/october-bingo/precache-manifest.f859177a0aebdd567fbe72b4633829d9.js",
+    "service-worker.js": "/october-bingo/service-worker.js",
+    "static/css/main.992fd86d.chunk.css.map": "/october-bingo/static/css/main.992fd86d.chunk.css.map",
+    "static/js/2.8aca7923.chunk.js.LICENSE.txt": "/october-bingo/static/js/2.8aca7923.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef03ba89.js",
+    "static/js/2.8aca7923.chunk.js",
+    "static/css/main.992fd86d.chunk.css",
+    "static/js/main.ec2defad.chunk.js"
+  ]
+}
