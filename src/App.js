@@ -50,7 +50,7 @@ function App() {
 
       <div className="mainContainer">
         <div className="cardHeader">
-          <h2 className="cardTitle">My Card</h2>
+          <h2 className="cardTitle">release arena bingo</h2>
           <button className="resetButton" onClick={initializeTasks}>Shuffle!</button>
         </div>
         

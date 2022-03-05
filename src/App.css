@@ -1,12 +1,13 @@
 :root {
-  --red: #e63946;
+  --red: #ff3e3e;
   --honeydew:#f1faee;
   --neutral: #f3f5f2;
   --light-blue: #a8dadc;
-  --medium-blue: #457b9d;
-  --dark-blue: #1d3557;
-  --almost-black: #181a1e;
+  --medium-blue: #5cb2ff;
+  --dark-blue: #004cff;
+  --almost-black: #;
   --decor-font: 'Secular One', Arial, Helvetica, sans-serif;
+  --fg-color: #a4b1cd
 }
 
 * {
@@ -14,7 +15,7 @@
 }
 
 body {
-  background-color: #f3f5f2;
+  background-color: #141d2b;
   color: #181a1e;
   font-family: 'Secular One', Arial, Helvetica, sans-serif;
 }
@@ -28,10 +29,11 @@ body {
   width: 95%;
   border-radius: 5px;
 
-  background-color: #a8dadc;
+  background-color: #111927;
   padding: 1em;
-
-  box-shadow: 0px 5px 8px -3px #dddddd;
+  border-radius: 0%;
+  box-shadow:
+  5px 0 40px #9fef00;         /* outer right cyan */
 
   margin: 0 auto;
 }
@@ -40,7 +42,7 @@ body {
   position: relative;
 }
 .cardTitle {
-  color: #457b9d;
+  color: #9fef00;
   font-size: 2.5em;
   text-transform: uppercase;
   margin: 0 0 0.25em;
@@ -51,7 +53,7 @@ body {
   font-size: 1.5em;
   outline: none;
   border: none;
-  background-color: #e63946;
+  background-color: #9fef00;
   color: #f3f5f2;
   margin-bottom: 0.5em;
   position: absolute;

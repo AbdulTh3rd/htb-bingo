@@ -1,17 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
+
 .Header {
-    font-family: 'Secular One', Arial, Helvetica, sans-serif;
-    color: #1d3557;
+    font-family: 'Fredoka', sans-serif;
+    color: #9fef00;
     font-size: 3em;
     text-transform: uppercase;
 }
 
 .Header .aside {
-    color: #e63946;
+    color: #ff3e3e;
 }
 
 
 @media screen and (max-width: 800px) {
     .Header {
+        
         font-size: 1.5em;
     }
 }

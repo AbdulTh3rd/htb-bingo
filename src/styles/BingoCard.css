@@ -76,7 +76,7 @@
         display: block;
 
         content: "\2714";
-        color: #e63946;
+        color: #9fef00;
 
         position: absolute;
         text-align: center;
@@ -86,7 +86,7 @@
         top: 50%;
         transform: translate(0, -150%);
         font-size: 8em;
-        opacity: 0.3;           
+        opacity: 0.9;           
         transition: 0.1s;
     }
     .bingoSquare--checked:before {
@@ -154,7 +154,7 @@
     .bingoSquare--checked .bingoCheckbox:before {
         display: block;
         content: "\2714";
-        color: #e63946;
+        color: #9fef00;
         position: absolute;
         top: -2px;
         left: 0;
