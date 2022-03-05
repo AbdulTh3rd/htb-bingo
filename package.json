@@ -1,6 +1,6 @@
 {
   "name": "october-bingo",
-  "homepage": "https://tobeatelit3.github.io/october-bingo/",
+  "homepage": "https://tobeatelit3.github.io/htb-bingo/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
