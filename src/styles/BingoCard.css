@@ -102,7 +102,7 @@
         align-items: center;
         flex-grow: 1;
     }
-    .taskText--vote {
+    .taskText--free {
         font-size: 3em;
     }
 }

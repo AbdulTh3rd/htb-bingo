@@ -25,7 +25,7 @@ function BingoSquare({ task, taskIndex, toggle }) {
         <div onClick={toggleChecked} className={ task.isChecked ? 'bingoSquare bingoSquare--checked' : 'bingoSquare'}>
             <div className="bingoCheckbox"></div>
             <div className="taskTextContainer">
-                <div className={ task.title === 'VOTE' ? 'taskText taskText--vote' : 'taskText' }>
+                <div className={ task.title === 'FREE' ? 'taskText taskText--free' : 'taskText' }>
                     {task.title}
                 </div>
             </div>
