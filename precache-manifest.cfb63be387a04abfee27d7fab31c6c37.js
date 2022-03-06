@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "908c442d417213bb143219a6e4bef16c",
+    "revision": "bf7abde55750920ae91999c8a0a289c6",
     "url": "/htb-bingo/index.html"
   },
   {
-    "revision": "c171fd27013d4b6b31c4",
-    "url": "/htb-bingo/static/css/main.f5831974.chunk.css"
+    "revision": "0bc10278fe9c7696ab65",
+    "url": "/htb-bingo/static/css/main.f6f5e515.chunk.css"
   },
   {
     "revision": "4506b2ae842b3e7e3b98",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/htb-bingo/static/js/2.9721dea3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c171fd27013d4b6b31c4",
-    "url": "/htb-bingo/static/js/main.b3bca826.chunk.js"
+    "revision": "0bc10278fe9c7696ab65",
+    "url": "/htb-bingo/static/js/main.66052f43.chunk.js"
   },
   {
     "revision": "a788e0ed12019138d859",
