@@ -60,16 +60,16 @@ const taskBank = [
         "title": "working easy wins (polkit, pwnkit, noPac, etc)",
     },
     {
+        "title": "author blames htb for a shit box",
+    },
+    {
+        "title": "its a windows box and xct is happy, or its a linux box and xct is sad",
+    },
+    {
+        "title": "bigpwn3r gets into the top 25 pwns for the box",
+    },
+    {
         "title": "placeholder 1",
-    },
-    {
-        "title": "placeholder 2",
-    },
-    {
-        "title": "placeholder 3",
-    },
-    {
-        "title": "placeholder 4",
     }
 ];
 
