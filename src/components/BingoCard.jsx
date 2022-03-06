@@ -39,7 +39,12 @@ function BingoCard({ tasks, setTasks }) {
     const completeTaskFunc = (taskIndex) => {
         let newTasks = [...tasks];
         let thisTask = newTasks[taskIndex];
-        thisTask.isChecked = true;
+        if (thisTask.isChecked) {
+            thisTask.isChecked = false
+        }
+        else {
+            thisTask.isChecked = true;
+        }
 
         setTasks(newTasks);
     }
