@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500&display=swap');
 
+h2 {
+    color: #141d2b;
+}
+
 .Footer a {
     /* text-decoration: none; */
     color: #457b9d;
