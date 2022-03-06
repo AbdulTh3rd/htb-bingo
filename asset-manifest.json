@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/htb-bingo/static/css/main.1705a0ba.chunk.css",
-    "main.js": "/htb-bingo/static/js/main.e4425816.chunk.js",
-    "main.js.map": "/htb-bingo/static/js/main.e4425816.chunk.js.map",
+    "main.js": "/htb-bingo/static/js/main.9d09c215.chunk.js",
+    "main.js.map": "/htb-bingo/static/js/main.9d09c215.chunk.js.map",
     "runtime-main.js": "/htb-bingo/static/js/runtime-main.933c4ace.js",
     "runtime-main.js.map": "/htb-bingo/static/js/runtime-main.933c4ace.js.map",
     "static/js/2.9721dea3.chunk.js": "/htb-bingo/static/js/2.9721dea3.chunk.js",
     "static/js/2.9721dea3.chunk.js.map": "/htb-bingo/static/js/2.9721dea3.chunk.js.map",
     "index.html": "/htb-bingo/index.html",
-    "precache-manifest.0b2847b21d3b204cac27cb480a8d8bae.js": "/htb-bingo/precache-manifest.0b2847b21d3b204cac27cb480a8d8bae.js",
+    "precache-manifest.25d4160d3d4d0905b5f63af32ad15dbd.js": "/htb-bingo/precache-manifest.25d4160d3d4d0905b5f63af32ad15dbd.js",
     "service-worker.js": "/htb-bingo/service-worker.js",
     "static/css/main.1705a0ba.chunk.css.map": "/htb-bingo/static/css/main.1705a0ba.chunk.css.map",
     "static/js/2.9721dea3.chunk.js.LICENSE.txt": "/htb-bingo/static/js/2.9721dea3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.933c4ace.js",
     "static/js/2.9721dea3.chunk.js",
     "static/css/main.1705a0ba.chunk.css",
-    "static/js/main.e4425816.chunk.js"
+    "static/js/main.9d09c215.chunk.js"
   ]
 }
