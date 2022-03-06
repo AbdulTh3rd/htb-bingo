@@ -35,6 +35,7 @@ function App() {
         if(chosenTasks.indexOf(taskBank[r].title) === -1) arr.push(thisTask);
         chosenTasks.push(taskBank[r].title);
 
+
         if(arr.length === 12) arr.push(initTask({title: "FREE"}));
     }
 
