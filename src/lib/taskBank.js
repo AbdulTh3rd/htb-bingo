@@ -15,7 +15,7 @@ const taskBank = [
         "title": "Nmap Scan through Proxy/Slow AF",
     },
     {
-        "title": "placeholder 5",
+        "title": "Author says box should be insane when it should be easy",
     },
     {
         "title": "Exploit on Author's github",
@@ -69,7 +69,7 @@ const taskBank = [
         "title": "bigpwn3r gets into the top 25 pwns for the box",
     },
     {
-        "title": "placeholder 1",
+        "title": "Random guy thinks this is raidfourms and asks for the root password",
     }
 ];
 
